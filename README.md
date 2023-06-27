@@ -8,7 +8,9 @@ You can use it if you like just mail me and give credit kindly.
 ## Website Link 
 
 - https://saminkirigaya.github.io/Restaurant_Web_Design_With_Es7_Bootstrap5.github.io/
-- 
+
+## Website Demo
+
 ## Features Updated
 
 - Sliding effect with window scrolling
