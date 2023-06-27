@@ -10,11 +10,11 @@ You can use it if you like just mail me and give credit kindly.
 - https://saminkirigaya.github.io/Restaurant_Web_Design_With_Es7_Bootstrap5.github.io/
 
 ## Website Demo
-- <img src="demo1.jpg" width="1940" height="350">
-- <img src="demo2.jpg" width="1940" height="350">
-- <img src="demo3.jpg" width="1940" height="350">
-- <img src="demo4.jpg" width="1940" height="350">
-- <img src="demo5.jpg" width="1940" height="350">
+- <img src="demo1.png" width="1940" height="350">
+- <img src="demo2.png" width="1940" height="350">
+- <img src="demo3.png" width="1940" height="350">
+- <img src="demo4.png" width="1940" height="350">
+- <img src="demo5.png" width="1940" height="350">
 
 ## Features Updated
 
