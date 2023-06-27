@@ -17,7 +17,7 @@ You can use it if you like just mail me and give credit kindly.
 
 ## Run Locally
 
-Just clone the project and enjoy with index page !!!
+Just clone the project, keep in the root of you hosting and enjoy with index page !!!
 ## Optimizations
 
 Added more responsive view for different displays.
