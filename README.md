@@ -13,8 +13,6 @@ You can use it if you like just mail me and give credit kindly.
 
 
 ## Features Updated
-(https://github.com/SaminKirigaya/Restaurant_Web_Design_With_Es7_Bootstrap5.github.io/assets/104618775/5571909a-72d2-48f3-a430-043a8f620b9f)
-
 
 - Sliding effect with window scrolling
 - Opacity effect with window scrolling
